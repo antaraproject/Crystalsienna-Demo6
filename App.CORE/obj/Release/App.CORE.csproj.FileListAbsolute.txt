@@ -1,0 +1,54 @@
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\bin\Release\App.CORE.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\bin\Release\App.CORE.pdb
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\obj\Release\App.CORE.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\obj\Release\App.CORE.pdb
+D:\#PANU\EscortCMS\App.CORE\bin\Release\App.CORE.dll
+D:\#PANU\EscortCMS\App.CORE\bin\Release\App.CORE.pdb
+D:\#PANU\EscortCMS\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+D:\#PANU\EscortCMS\App.CORE\obj\Release\App.CORE.dll
+D:\#PANU\EscortCMS\App.CORE\obj\Release\App.CORE.pdb
+D:\Joy Mitra\EscortCMS\App.CORE\bin\Release\App.CORE.dll
+D:\Joy Mitra\EscortCMS\App.CORE\bin\Release\App.CORE.pdb
+D:\Joy Mitra\EscortCMS\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+D:\Joy Mitra\EscortCMS\App.CORE\obj\Release\App.CORE.dll
+D:\Joy Mitra\EscortCMS\App.CORE\obj\Release\App.CORE.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\bin\Release\App.CORE.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\bin\Release\App.CORE.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\obj\Release\App.CORE.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\obj\Release\App.CORE.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.CORE\bin\Release\App.CORE.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.CORE\bin\Release\App.CORE.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.CORE\obj\Release\App.CORE.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.CORE\obj\Release\App.CORE.pdb
+D:\Joy Mitra\BlockchainSoftware\App.CORE\bin\Release\App.CORE.dll
+D:\Joy Mitra\BlockchainSoftware\App.CORE\bin\Release\App.CORE.pdb
+D:\Joy Mitra\BlockchainSoftware\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+D:\Joy Mitra\BlockchainSoftware\App.CORE\obj\Release\App.CORE.dll
+D:\Joy Mitra\BlockchainSoftware\App.CORE\obj\Release\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\bin\Release\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\bin\Release\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Release\App.CORE.csproj.CoreCompileInputs.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Release\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Release\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms_old\App.CORE\bin\Release\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms_old\App.CORE\bin\Release\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms_old\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+E:\Office Project\#supply chain\Supplychain_cms_old\App.CORE\obj\Release\App.CORE.csproj.CoreCompileInputs.cache
+E:\Office Project\#supply chain\Supplychain_cms_old\App.CORE\obj\Release\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms_old\App.CORE\obj\Release\App.CORE.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\bin\Release\App.CORE.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\bin\Release\App.CORE.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Release\App.CORE.csproj.CoreCompileInputs.cache
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Release\App.CORE.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Release\App.CORE.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\bin\Release\App.CORE.dll
+D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\bin\Release\App.CORE.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Release\App.CORE.csprojAssemblyReference.cache
+D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Release\App.CORE.csproj.CoreCompileInputs.cache
+D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Release\App.CORE.dll
+D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Release\App.CORE.pdb

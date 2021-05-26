@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{7FBDCCB3-98C1-4049-B8EA-DB28912508BA}|">
+  <MonoDevelop.Ide.ItemProperties.ProjectSix PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectSix/tour/index.aspx">
+    <Files>
+      <File FileName="ProjectSix/index.aspx" Line="157" Column="9" />
+      <File FileName="ProjectSix/main-assets/css/style.css" Line="17206" Column="47" />
+      <File FileName="ProjectSix/main-assets/css/materialize.min.css" Line="672" Column="34" />
+      <File FileName="ProjectSix/index.aspx.cs" Line="424" Column="488" />
+      <File FileName="ProjectSix/selfie/index.aspx" Line="15" Column="9" />
+      <File FileName="ProjectSix/testimonial/index.aspx" Line="16" Column="13" />
+      <File FileName="ProjectSix/calender/index.aspx" Line="113" Column="7" />
+      <File FileName="ProjectSix/news/index.aspx" Line="17" Column="13" />
+      <File FileName="ProjectSix/forum/index.aspx" Line="21" Column="10" />
+      <File FileName="ProjectSix/voting/index.aspx" Line="18" Column="13" />
+      <File FileName="ProjectSix/contact/index.aspx" Line="53" Column="36" />
+      <File FileName="ProjectSix/about-me/index.aspx" Line="16" Column="13" />
+      <File FileName="ProjectSix/tour/index.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectSix" expanded="True">
+            <Node name="ProjectSix" expanded="True">
+              <Node name="tour" expanded="True">
+                <Node name="index.aspx" selected="True" />
+              </Node>
+              <Node name="voting" expanded="True" />
+              <Node name="index.aspx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

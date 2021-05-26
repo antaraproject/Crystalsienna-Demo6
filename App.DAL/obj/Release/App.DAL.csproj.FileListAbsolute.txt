@@ -1,0 +1,36 @@
+F:\Pritam\BLOCKCHAIN_BASICS\App.DAL\bin\Release\App.DAL.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.DAL\bin\Release\App.DAL.pdb
+F:\Pritam\BLOCKCHAIN_BASICS\App.DAL\obj\Release\App.DAL.csprojAssemblyReference.cache
+F:\Pritam\BLOCKCHAIN_BASICS\App.DAL\obj\Release\App.DAL.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.DAL\obj\Release\App.DAL.pdb
+D:\#PANU\EscortCMS\App.DAL\bin\Release\App.DAL.dll
+D:\#PANU\EscortCMS\App.DAL\bin\Release\App.DAL.pdb
+D:\#PANU\EscortCMS\App.DAL\obj\Release\App.DAL.csprojAssemblyReference.cache
+D:\#PANU\EscortCMS\App.DAL\obj\Release\App.DAL.dll
+D:\#PANU\EscortCMS\App.DAL\obj\Release\App.DAL.pdb
+D:\Joy Mitra\EscortCMS\App.DAL\bin\Release\App.DAL.dll
+D:\Joy Mitra\EscortCMS\App.DAL\bin\Release\App.DAL.pdb
+D:\Joy Mitra\EscortCMS\App.DAL\obj\Release\App.DAL.csprojAssemblyReference.cache
+D:\Joy Mitra\EscortCMS\App.DAL\obj\Release\App.DAL.dll
+D:\Joy Mitra\EscortCMS\App.DAL\obj\Release\App.DAL.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.DAL\bin\Release\App.DAL.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.DAL\bin\Release\App.DAL.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.DAL\obj\Release\App.DAL.csprojAssemblyReference.cache
+D:\ASP Projects\EscortCMS\EscortCMS\App.DAL\obj\Release\App.DAL.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.DAL\obj\Release\App.DAL.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.DAL\bin\Release\App.DAL.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.DAL\bin\Release\App.DAL.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.DAL\obj\Release\App.DAL.csprojAssemblyReference.cache
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.DAL\obj\Release\App.DAL.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.DAL\obj\Release\App.DAL.pdb
+D:\Joy Mitra\BlockchainSoftware\App.DAL\bin\Release\App.DAL.dll
+D:\Joy Mitra\BlockchainSoftware\App.DAL\bin\Release\App.DAL.pdb
+D:\Joy Mitra\BlockchainSoftware\App.DAL\obj\Release\App.DAL.csprojAssemblyReference.cache
+D:\Joy Mitra\BlockchainSoftware\App.DAL\obj\Release\App.DAL.dll
+D:\Joy Mitra\BlockchainSoftware\App.DAL\obj\Release\App.DAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.DAL\bin\Release\App.DAL.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.DAL\bin\Release\App.DAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.DAL\obj\Release\App.DAL.csprojAssemblyReference.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.DAL\obj\Release\App.DAL.csproj.CoreCompileInputs.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.DAL\obj\Release\App.DAL.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.DAL\obj\Release\App.DAL.pdb

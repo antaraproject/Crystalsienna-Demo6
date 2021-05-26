@@ -1,0 +1,125 @@
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.BAL.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.BAL.pdb
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.CORE.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.DAL.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.CORE.pdb
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.DAL.pdb
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.pdb
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.BAL.dll
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.BAL.pdb
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.CORE.dll
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.DAL.dll
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.CORE.pdb
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\bin\Release\App.DAL.pdb
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.dll
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.BAL\obj\Release\App.BAL.pdb
+D:\#PANU\EscortCMS\App.BAL\bin\Release\App.BAL.dll
+D:\#PANU\EscortCMS\App.BAL\bin\Release\App.BAL.pdb
+D:\#PANU\EscortCMS\App.BAL\bin\Release\App.CORE.dll
+D:\#PANU\EscortCMS\App.BAL\bin\Release\App.DAL.dll
+D:\#PANU\EscortCMS\App.BAL\bin\Release\App.CORE.pdb
+D:\#PANU\EscortCMS\App.BAL\bin\Release\App.DAL.pdb
+D:\#PANU\EscortCMS\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+D:\#PANU\EscortCMS\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+D:\#PANU\EscortCMS\App.BAL\obj\Release\App.BAL.dll
+D:\#PANU\EscortCMS\App.BAL\obj\Release\App.BAL.pdb
+D:\Joy Mitra\EscortCMS\App.BAL\bin\Release\App.BAL.dll
+D:\Joy Mitra\EscortCMS\App.BAL\bin\Release\App.BAL.pdb
+D:\Joy Mitra\EscortCMS\App.BAL\bin\Release\App.CORE.dll
+D:\Joy Mitra\EscortCMS\App.BAL\bin\Release\App.DAL.dll
+D:\Joy Mitra\EscortCMS\App.BAL\bin\Release\App.CORE.pdb
+D:\Joy Mitra\EscortCMS\App.BAL\bin\Release\App.DAL.pdb
+D:\Joy Mitra\EscortCMS\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+D:\Joy Mitra\EscortCMS\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+D:\Joy Mitra\EscortCMS\App.BAL\obj\Release\App.BAL.dll
+D:\Joy Mitra\EscortCMS\App.BAL\obj\Release\App.BAL.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\bin\Release\App.BAL.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\bin\Release\App.BAL.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\bin\Release\App.CORE.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\bin\Release\App.DAL.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\bin\Release\App.CORE.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\bin\Release\App.DAL.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\obj\Release\App.BAL.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.BAL\obj\Release\App.BAL.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\bin\Release\App.BAL.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\bin\Release\App.BAL.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\bin\Release\App.CORE.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\bin\Release\App.DAL.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\bin\Release\App.CORE.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\bin\Release\App.DAL.pdb
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\obj\Release\App.BAL.dll
+D:\ASP Projects\Blockchain-software\BlockchainSoftware\App.BAL\obj\Release\App.BAL.pdb
+D:\Joy Mitra\BlockchainSoftware\App.BAL\bin\Release\App.BAL.dll
+D:\Joy Mitra\BlockchainSoftware\App.BAL\bin\Release\App.BAL.pdb
+D:\Joy Mitra\BlockchainSoftware\App.BAL\bin\Release\App.CORE.dll
+D:\Joy Mitra\BlockchainSoftware\App.BAL\bin\Release\App.DAL.dll
+D:\Joy Mitra\BlockchainSoftware\App.BAL\bin\Release\App.CORE.pdb
+D:\Joy Mitra\BlockchainSoftware\App.BAL\bin\Release\App.DAL.pdb
+D:\Joy Mitra\BlockchainSoftware\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+D:\Joy Mitra\BlockchainSoftware\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+D:\Joy Mitra\BlockchainSoftware\App.BAL\obj\Release\App.BAL.dll
+D:\Joy Mitra\BlockchainSoftware\App.BAL\obj\Release\App.BAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\bin\Release\App.BAL.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\bin\Release\App.BAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\bin\Release\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\bin\Release\App.DAL.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\bin\Release\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\bin\Release\App.DAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\obj\Release\App.BAL.csproj.CoreCompileInputs.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\obj\Release\App.BAL.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.BAL\obj\Release\App.BAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\bin\Release\App.BAL.dll
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\bin\Release\App.BAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\bin\Release\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\bin\Release\App.DAL.dll
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\bin\Release\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\bin\Release\App.DAL.pdb
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\obj\Release\App.BAL.csproj.CoreCompileInputs.cache
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\obj\Release\App.BAL.dll
+E:\Office Project\#supply chain\Supplychain_cms_old\App.BAL\obj\Release\App.BAL.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\bin\Release\App.BAL.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\bin\Release\App.BAL.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\bin\Release\App.CORE.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\bin\Release\App.DAL.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\bin\Release\App.CORE.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\bin\Release\App.DAL.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\obj\Release\App.BAL.csproj.CoreCompileInputs.cache
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\obj\Release\App.BAL.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.BAL\obj\Release\App.BAL.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\bin\Release\App.BAL.dll
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\bin\Release\App.BAL.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\bin\Release\App.CORE.dll
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\bin\Release\App.DAL.dll
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\bin\Release\App.CORE.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\bin\Release\App.DAL.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\obj\Release\App.BAL.csproj.CoreCompileInputs.cache
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\obj\Release\App.BAL.dll
+D:\EXCORT_PROJECT_6\ProjectSix\App.BAL\obj\Release\App.BAL.pdb
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\bin\Release\App.BAL.dll
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\bin\Release\App.BAL.pdb
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\bin\Release\App.CORE.dll
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\bin\Release\App.DAL.dll
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\bin\Release\App.CORE.pdb
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\bin\Release\App.DAL.pdb
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\obj\Release\App.BAL.csprojAssemblyReference.cache
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\obj\Release\App.BAL.csproj.CoreCompileInputs.cache
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\obj\Release\App.BAL.csproj.CopyComplete
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\obj\Release\App.BAL.dll
+E:\Office Project\#project_All\demo 6\ProjectSix\App.BAL\obj\Release\App.BAL.pdb
