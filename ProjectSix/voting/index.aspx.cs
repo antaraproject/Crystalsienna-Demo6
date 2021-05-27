@@ -5,6 +5,17 @@ using System.Configuration;
 using System.Data;
 using System.Globalization;
 using System.Web;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.IO;
+using System.Net;
+using System.Net.Mail;
+using System.Text;
+using Newtonsoft.Json;
+using System.Web.Services;
+using System.Web.Script.Services;
 
 namespace ProjectSix.voting
 {
@@ -89,9 +100,6 @@ namespace ProjectSix.voting
                         if (cookie != null && HttpContext.Current.Session["ID"] != null)
                         {
                             user_key = Session["USERID"].ToString();
-
-                            
-
                           
                         }
                         else
@@ -117,20 +125,20 @@ namespace ProjectSix.voting
                             if(dt6.Rows[0]["VOTE_COUNT"].ToString() == "0")
                             {
 
-                                vString += "<a href='#' id='btn" + i + "' onclick='useranswer(this.id)' data-='" + dt.Rows[i]["DTLS_VOTING_KEY"] + "' class='btn btn-extra-large btn-dark-gray text-large border-radius-4 md-margin-15px-bottom sm-display-table sm-margin-lr-auto width-one'>";
+                                vString += "<a href='' id='btn" + i + "' onclick='useranswer(this.id)' data-='" + dt.Rows[i]["DTLS_VOTING_KEY"] + "' class='btn btn-extra-large btn-dark-gray text-large border-radius-4 md-margin-15px-bottom sm-display-table sm-margin-lr-auto width-one'>";
                                 vString += "Vote " + COUNT_VOTE + "</a></div></div></div></div>";
                             }
 
                             else
                             {
 
-                                vString += "<a href='#' disabled='disabled' class='btn btn-extra-large btn-dark-gray text-large border-radius-4 md-margin-15px-bottom sm-display-table sm-margin-lr-auto width-one'>";
+                                vString += "<a disabled='disabled' class='btn btn-extra-large btn-dark-gray text-large border-radius-4 md-margin-15px-bottom sm-display-table sm-margin-lr-auto width-one'>";
                                 vString += "Vote " + COUNT_VOTE + "</a></div></div></div></div>";
                             }
                         }
                         else 
                         {
-                            vString += "<a href='#' id='btn" + i + "' onclick='useranswer(this.id)' data-='" + dt.Rows[i]["DTLS_VOTING_KEY"] + "' class='btn btn-extra-large btn-dark-gray text-large border-radius-4 md-margin-15px-bottom sm-display-table sm-margin-lr-auto width-one'>";
+                            vString += "<a href='' id='btn" + i + "' onclick='useranswer(this.id)' data-='" + dt.Rows[i]["DTLS_VOTING_KEY"] + "' class='btn btn-extra-large btn-dark-gray text-large border-radius-4 md-margin-15px-bottom sm-display-table sm-margin-lr-auto width-one'>";
                             vString += "Vote " + COUNT_VOTE + "</a></div></div></div></div>";
                         }
 
@@ -191,13 +199,12 @@ namespace ProjectSix.voting
                     vKey = oBME.SaveChanges_count("INSERT", oBMAST, errMsg1, "2019", 1);
 
                 }
-             
-
                 return vKey.ToString();
             }
 
             else
             {
+                
                 return "0";
             }
 

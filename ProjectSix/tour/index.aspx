@@ -12,10 +12,6 @@
         }
 
 
-
-
-
-
     </script>
 
 
@@ -35,9 +31,12 @@
 */
 
 .modal-dialog {
-    position: relative;
+    /*position: relative;
     width: auto;
     margin: .5rem;
+    pointer-events: none;*/
+    position: relative;
+    margin: 10% auto;
     pointer-events: none;
 }
 
@@ -68,14 +67,24 @@
     line-height: 1.5385;
 }
 
-.modal-header .close {
-    color: inherit;
+/*.modal-header .close {
+    color: inherit;*/
 	/*padding: 1.25rem 1.25rem;*/
-margin: -1.25rem -1.25rem -1.25rem auto;
+/*margin: -1.25rem -1.25rem -1.25rem auto;
 position:relative;
 top:-40px;
 
-}
+}*/
+
+.modal-header .close {
+            padding: 1.25rem 1.25rem;
+            margin: -1.25rem -1.25rem -1.25rem auto;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            color: #222;
+            opacity: 1;
+        }
 
 .modal-body {
     position: relative;
@@ -168,17 +177,17 @@ top:-40px;
 
                 <div class="modal-body">
                     <div class="form-group row">
-                        <label class="col-lg-4 col-form-label">
+                        <label class="col-lg-12 col-form-label">
                            Enter the Email</label>
-                        <div class="col-lg-8">
+                        <div class="col-lg-12">
                            
-                            <asp:TextBox ID="txt_EMAIL" runat="server" style="position:relative;top:-10px;" class="form-control" placeholder="Enter Your Email"></asp:TextBox>
+                            <asp:TextBox ID="txt_EMAIL" runat="server" placeholder="Enter Your Email"></asp:TextBox>
                         </div>
                     </div>
                       <div class="form-group row">
-                        <label class="col-lg-4 col-form-label">
+                        <label class="col-lg-12 col-form-label">
                            Select the city</label>
-                        <div class="col-lg-8">
+                        <div class="col-lg-12">
                             <asp:DropDownList ID="ddl_CITY" runat="server" class="form-control"></asp:DropDownList>
                            
                         </div>

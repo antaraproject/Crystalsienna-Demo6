@@ -120,6 +120,7 @@ E:/yourflow/ProjectSix/ProjectSix/App.CORE/obj/Debug/App.CORE.pdb
 /Users/supriyoghosh/Desktop/ProjectSix/App.CORE/obj/Debug/App.CORE.pdb
 D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
 D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
 D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
 D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
 D:\EXCORT_PROJECT_6\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb

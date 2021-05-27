@@ -1093,7 +1093,7 @@ section {
     border-radius: 0;
 }
 
-.medium-input, .medium-textarea, .medium-select select {
+.medium-input, .medium-textarea, .medium-select select, .medium-select textarea{
     padding: 12px 20px;
     font-size: 14px;
     line-height: normal;
@@ -15550,7 +15550,9 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {
     border-width: 10px;
     margin-left: -10px;
 }
-
+.testimonial-content-box{
+    min-height:220px;
+}
 /* testimonial-box */
 .testimonial-box .image-box {
     display: table-cell;
@@ -15610,6 +15612,23 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {
     -ms-transition-duration: .3s;
     -webkit-transition-duration: .3s;
     -o-transition-duration: .3s;
+}
+.blog-post .post-details .post-title {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -o-transition-duration: .3s;
+    min-height: 46px;
+}
+
+.blog-post .post-details p{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -o-transition-duration: .3s;
+    min-height: 46px;
 }
 
 .blog-post-style3 .grid-item .blog-post .author img {
@@ -18830,8 +18849,8 @@ input[type="button"], input[type="text"], input[type="email"], input[type="searc
 #back_image input {
     color:#fff;
 }
-    #back_image textarea{
-    background-color: transparent;
+#back_image textarea {
+    /*background-color: transparent;
     border: none;
     border-bottom: 1px solid #9e9e9e;
     border-radius: 0;
@@ -18846,6 +18865,14 @@ input[type="button"], input[type="text"], input[type="email"], input[type="searc
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
     -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    color: #fff;*/
+    background-color: transparent;
+    border-radius: 0;
+    outline: none;
+    width: 100%;
+    -webkit-box-shadow: none;
+    box-shadow: none;
     transition: all 0.3s;
     color: #fff;
 }
@@ -19155,4 +19182,17 @@ a.backtohome {
     float: left;
     width: 100%;
     position:relative;
+}
+.discount-tag {
+    background: #0055ca;
+    color: #fff;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin: 0 auto 0;
+    display: block;
+    padding: 5px 20px;
+    line-height: 14px;
+    font-size: 13px;
+    border-radius: 14px;
 }

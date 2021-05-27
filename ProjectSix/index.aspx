@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <link href="<%=Page.ResolveClientUrl("~/main-assets/fullcalendar/lib/main.css")%>" rel='stylesheet' />
-     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script>
 
         function show_modal() {
@@ -59,7 +59,7 @@
 
 </script>
     <style>
-  /*      .modal {
+        /*      .modal {
  
     position: fixed;
     top: 0;
@@ -73,250 +73,239 @@
 }
 */
 
-.modal-dialog {
-    position: relative;
-    width: auto;
-    margin: .5rem;
-    pointer-events: none;
-}
-
-.modal-content {
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    width: 100%;
-    pointer-events: auto;
-    background-color: #fff;
-    background-clip: padding-box;
-    border: 1px solid rgba(0,0,0,.2);
-    border-radius: .25rem;
-    box-shadow: 0 .25rem .5rem rgba(0,0,0,.1);
-    outline: 0;
-}
-
-.modal-header {
-    position: relative;
-    border-top-left-radius: .1875rem;
-    border-top-right-radius: .1875rem;
-}
-
-.modal-title {
-    margin-bottom: 0;
-    line-height: 1.5385;
-}
-
-.modal-header .close {
-    color: inherit;
-	/*padding: 1.25rem 1.25rem;*/
-margin: -1.25rem -1.25rem -1.25rem auto;
-position:relative;
-top:-40px;
-
-}
-
-.modal-body {
-    position: relative;
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-    padding: 1.25rem;
-}
-
-.form-group {
-    margin-bottom: 1.25rem;
-}
-
-.modal-footer {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
-    padding: 1.25rem;
-        padding-top: 1.25rem;
-    border-top: 1px solid rgba(0,0,0,.125);
-        border-top-width: 1px;
-    border-bottom-right-radius: .25rem;
-    border-bottom-left-radius: .25rem;
-}
-
-.btn-link {
-    font-weight: 400;
-    color: #2196f3;
-    text-decoration: none;
-}
-
-.bg-primary {
-    background-color: #2196f3 !important;
-}
-        
-<!--        Supriyo CSS-->
-        
-        
-        
-        
-        
-        @media (max-width: 767px){
-        
-        .b-text{
-            font-size: 2rem !important;
+        .modal-dialog {
+            position: relative;
+            margin: 10% auto;
+            pointer-events: none;
         }
-        
-        
+
+        .modal-content {
+            position: relative;
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            width: 100%;
+            pointer-events: auto;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid rgba(0,0,0,.2);
+            border-radius: .25rem;
+            box-shadow: 0 .25rem .5rem rgba(0,0,0,.1);
+            outline: 0;
+        }
+
+        .modal-header {
+            position: relative;
+            border-top-left-radius: .1875rem;
+            border-top-right-radius: .1875rem;
+        }
+
+        .modal-title {
+            margin-bottom: 0;
+            line-height: 1.5385;
+        }
+
+        .modal-header .close {
+            padding: 1.25rem 1.25rem;
+            margin: -1.25rem -1.25rem -1.25rem auto;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            color: #222;
+            opacity: 1;
+        }
+
+        .modal-body {
+            position: relative;
+            -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+            padding: 1.25rem;
+        }
+
+        .form-group {
+            margin-bottom: 1.25rem;
+        }
+
+        .modal-footer {
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-align: center;
+            align-items: center;
+            -ms-flex-pack: end;
+            justify-content: flex-end;
+            padding: 1.25rem;
+            padding-top: 1.25rem;
+            border-top: 1px solid rgba(0,0,0,.125);
+            border-top-width: 1px;
+            border-bottom-right-radius: .25rem;
+            border-bottom-left-radius: .25rem;
+        }
+
+        .btn-link {
+            font-weight: 400;
+            color: #2196f3;
+            text-decoration: none;
+        }
+
+        .bg-primary {
+            background-color: #2196f3 !important;
+        }
+
+        <!-- Supriyo CSS-- >
+
+        @media (max-width: 767px) {
+            .b-text{
+            font-size: 2rem !important;
+            }
+
+
         .modal .modal-content {
             padding: 5px;
-            
-        
-}
-       .tour-modal{
+        }
+
+        .tour-modal {
             height: 500px !important;
         }
-       
 
-        }
-       
-        
-        
-        
-      div#modal_default {
+    }
+
+
+
+
+        /*  div#modal_default {
         max-height: 68% !important;
-      }
-        
-         #gallery_img{
+      }*/
+
+        #gallery_img {
             background: no-repeat center top !important;
             background-color: #020202;
-          }
-        
-        
-    @media (max-width: 375px){
+        }
+
+
+        @media (max-width: 375px) {
             .row .col {
                 width: 46px !important;
                 height: 49px !important;
                 padding: 0 0.75rem !important;
                 margin: 0 0 0 3px !important;
-    }
-        
-        .row .col {
+            }
+
+            .row .col {
                 width: 40px !important;
                 height: 56px !important;
                 padding: 0 0.75rem !important;
                 margin: 0 0 0 9px !important;
             }
-    }    
-        
-        @media (max-width: 425px){
-             h1.b-text {
-    font-size: 3rem;
-             
-}
-         button#project-contact-us-4-button {
-                margin-top: 20px !important;
-         }
-        
-}
+        }
 
-        
-        
-        @media (max-width: 992px){
-.calendar-wrapper {
-    margin-top: 10px; 
-}
-}
-
-
-        @media (max-width: 375px){
-.sidebar-title {
-    padding: 10px 6% 10px 6% !important;
-}
-        
-       .full-width-pull-menu .dropdown .dropdown-toggle:before {
-    left: 96px !important;
-    top: 10px;
-}
-        
-        .full-width-pull-menu .dropdown .dropdown-toggle:after {
-    left: 90px !important;
-    top: 14.6px;
-}
-        
-   
-}   
-        
-        @media (max-width: 1024px){
-.sidebar-title {
-    padding: 10px 6% 0 6% !important;
-}
-        
-        .empty-message {
-    font-size: 1.2rem;
-    padding: 15px 6% 15px 6%;
-}
-}        
-        
-        
-        
-    .btn.btn-transparent-white {
-    background: transparent;
-    border-color: #ffffff;
-    color: #ffffff;
-    margin-top: 20px !important;
-    }
-      
-        
-        .side-nav.fixed {
-    left: 0;
-    transform: translateX(0);
-    position: relative;
-    float: left;
-    padding-left: 0;
-}
-        
-        
-        @media (max-width: 991px){
-.full-width-pull-menu .dropdown .dropdown-toggle {
-    top: 0px;
-}
-        
-        .full-width-pull-menu .dropdown .dropdown-toggle:before {
-    left: 89px !important;
-    top: 10px;
-}
-        
-        .full-width-pull-menu .dropdown .dropdown-toggle:after {
-    left: 84px !important;
-    top: 15px;
-}
-}        
-        
-        @media (max-width: 768px){
-            .full-width-pull-menu .dropdown .dropdown-toggle:before {
-             left: 140px !important;
-              top: 9px;
+        @media (max-width: 425px) {
+            h1.b-text {
+                font-size: 3rem;
             }
-        
-            .full-width-pull-menu .dropdown .dropdown-toggle:after {
-            left: 135px !important;
-            top: 13.5px;
+
+            button#project-contact-us-4-button {
+                margin-top: 20px !important;
             }
         }
-        
+
+
+
+        @media (max-width: 992px) {
+            .calendar-wrapper {
+                margin-top: 10px;
+            }
+        }
+
+
+        @media (max-width: 375px) {
+            .sidebar-title {
+                padding: 10px 6% 10px 6% !important;
+            }
+
+            .full-width-pull-menu .dropdown .dropdown-toggle:before {
+                left: 96px !important;
+                top: 10px;
+            }
+
+            .full-width-pull-menu .dropdown .dropdown-toggle:after {
+                left: 90px !important;
+                top: 14.6px;
+            }
+        }
+
+        @media (max-width: 1024px) {
+            .sidebar-title {
+                padding: 10px 6% 0 6% !important;
+            }
+
+            .empty-message {
+                font-size: 1.2rem;
+                padding: 15px 6% 15px 6%;
+            }
+        }
+
+
+
+        .btn.btn-transparent-white {
+            background: transparent;
+            border-color: #ffffff;
+            color: #ffffff;
+            margin-top: 20px !important;
+        }
+
+
+        .side-nav.fixed {
+            left: 0;
+            transform: translateX(0);
+            position: relative;
+            float: left;
+            padding-left: 0;
+        }
+
+
+        @media (max-width: 991px) {
+            .full-width-pull-menu .dropdown .dropdown-toggle {
+                top: 0px;
+            }
+
+                .full-width-pull-menu .dropdown .dropdown-toggle:before {
+                    left: 89px !important;
+                    top: 10px;
+                }
+
+                .full-width-pull-menu .dropdown .dropdown-toggle:after {
+                    left: 84px !important;
+                    top: 15px;
+                }
+        }
+
+        @media (max-width: 768px) {
+            .full-width-pull-menu .dropdown .dropdown-toggle:before {
+                left: 140px !important;
+                top: 9px;
+            }
+
+            .full-width-pull-menu .dropdown .dropdown-toggle:after {
+                left: 135px !important;
+                top: 13.5px;
+            }
+        }
+
         .fadeInUp {
             margin: 3px 0px !important;
-    }
-    
-    
-        
-        .es-diary {
-             text-align: center;
         }
-        
+
+
+
+        .es-diary {
+            text-align: center;
+        }
+
         .font-weight-400 {
             font-weight: 400;
             text-align: center;
         }
-        
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="maincontent" runat="server">
@@ -356,15 +345,15 @@ top:-40px;
                 </div>
                 <div class="col-sm-8" id="table_list" runat="server">
                 </div>
-              
+
             </div>
         </div>
-        
+
     </section>
     <!-- end recent work section -->
     <!--modal-->
-       <div id="modal_default" class="modal tour-modal" tabindex="-1" style="display: none;">
-        <div class="modal-dialog">
+    <div id="modal_default" class="modal tour-modal" tabindex="-1" style="display: none;">
+        <div class="modal-dialog modal-md">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title">Enter Your Email & Select the City</h5>
@@ -373,19 +362,21 @@ top:-40px;
 
                 <div class="modal-body">
                     <div class="form-group row">
-                        <label class="col-lg-4 col-form-label">
-                           Enter the Email</label>
-                        <div class="col-lg-8">
-                           
-                            <asp:TextBox ID="txt_EMAIL" runat="server" style="position:relative;top:-10px;" class="form-control" placeholder="Enter Your Email"></asp:TextBox>
+                        <label class="col-lg-12 col-form-label">
+                            Enter the Email</label>
+                        <br />
+                        <div class="col-lg-12">
+
+                            <asp:TextBox ID="txt_EMAIL" runat="server" class="form-control" placeholder="Enter Your Email"></asp:TextBox>
                         </div>
                     </div>
-                      <div class="form-group row">
-                        <label class="col-lg-4 col-form-label">
-                           Select the city</label>
-                        <div class="col-lg-8">
+                    <div class="form-group row">
+                        <label class="col-lg-12 col-form-label">
+                            Select the city</label>
+                        <br />
+                        <div class="col-lg-12">
                             <asp:DropDownList ID="ddl_CITY" runat="server" class="form-control"></asp:DropDownList>
-                           
+
                         </div>
                     </div>
                 </div>
@@ -425,13 +416,14 @@ top:-40px;
                 <div class="col-sm-12" id="galleryy_list" runat="server">
 
                     <ul class="portfolio-grid work-4col hover-option2">
-					
+
                         <li class="grid-sizer"></li>
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp">
-                            <a href="documents/gallery/20200921_070816.jpg"  title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
+                            <a href="documents/gallery/20200921_070816.jpg" title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-extra-dark-gray"><img src="documents/gallery/20200921_070816.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-extra-dark-gray">
+                                        <img src="documents/gallery/20200921_070816.jpg" alt="" class="project-img-gallery" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -447,9 +439,10 @@ top:-40px;
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.2s">
-                            <a href="documents/gallery/20200921_070804.jpg"  title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
+                            <a href="documents/gallery/20200921_070804.jpg" title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-extra-dark-gray"><img src="documents/gallery/20200921_070804.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-extra-dark-gray">
+                                        <img src="documents/gallery/20200921_070804.jpg" alt="" class="project-img-gallery" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -465,9 +458,10 @@ top:-40px;
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="documents/gallery/20200921_070657.jpg"  title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
+                            <a href="documents/gallery/20200921_070657.jpg" title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-extra-dark-gray"><img src="documents/gallery/20200921_070657.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-extra-dark-gray">
+                                        <img src="documents/gallery/20200921_070657.jpg" alt="" class="project-img-gallery" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -483,9 +477,10 @@ top:-40px;
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="documents/gallery/20200921_070645.jpg"  title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
+                            <a href="documents/gallery/20200921_070645.jpg" title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-extra-dark-gray"><img src="documents/gallery/20200921_070645.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-extra-dark-gray">
+                                        <img src="documents/gallery/20200921_070645.jpg" alt="" class="project-img-gallery" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -501,9 +496,10 @@ top:-40px;
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp">
-                            <a href="documents/gallery/20200921_070634.jpg"  title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
+                            <a href="documents/gallery/20200921_070634.jpg" title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-extra-dark-gray"><img src="documents/gallery/20200921_070634.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-extra-dark-gray">
+                                        <img src="documents/gallery/20200921_070634.jpg" alt="" class="project-img-gallery" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -519,9 +515,10 @@ top:-40px;
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="documents/gallery/20200921_070555.jpg"  title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
+                            <a href="documents/gallery/20200921_070555.jpg" title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-extra-dark-gray"><img src="documents/gallery/20200921_070555.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-extra-dark-gray">
+                                        <img src="documents/gallery/20200921_070555.jpg" alt="" class="project-img-gallery" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -537,9 +534,10 @@ top:-40px;
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="documents/gallery/20200921_070533.jpg"  title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
+                            <a href="documents/gallery/20200921_070533.jpg" title="Lightbox gallery image title..." data-group="four-columns-masonry" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-extra-dark-gray"><img src="documents/gallery/20200921_070533.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-extra-dark-gray">
+                                        <img src="documents/gallery/20200921_070533.jpg" alt="" class="project-img-gallery" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -555,8 +553,8 @@ top:-40px;
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                     </ul>
-					
-					
+
+
                     <ul class='portfolio-grid work-4col hover-option2'>
                     </ul>
                 </div>
@@ -709,8 +707,8 @@ top:-40px;
                 <div class="main-wrapper">
 
                     <div class="col-md-6 col-md-offset-3">
-                            <div id='calendar'></div>
-                            </div>
+                        <div id='calendar'></div>
+                    </div>
 
                 </div>
 
@@ -735,9 +733,9 @@ top:-40px;
 
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="script" runat="server">
-     <script src="<%=Page.ResolveClientUrl("~/main-assets/fullcalendar/lib/main.js")%>"></script>
+    <script src="<%=Page.ResolveClientUrl("~/main-assets/fullcalendar/lib/main.js")%>"></script>
     <script src="<%=Page.ResolveClientUrl("~/main-assets/js/nicescroll.js")%>"></script>
-   <%-- <script>
+    <%-- <script>
         $(document).ready(function () {
             $(".popup-content").niceScroll({
                 cursorcolor: "#cccccc",
@@ -900,7 +898,7 @@ top:-40px;
             });
         }
 
-        
+
 
         $(document).ready(function () {
 
@@ -913,10 +911,10 @@ top:-40px;
 
             });
 
-        }
+        });
 
     </script>
-    
+
 </asp:Content>
 
 

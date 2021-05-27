@@ -412,8 +412,8 @@
 <!-- retina -->
 <script type="text/javascript" src="<%=Page.ResolveClientUrl("~/main-assets/js/retina.min.js")%>"></script>
 <!-- revolution -->
-<script type="text/javascript" src="revolution/<%=Page.ResolveClientUrl("~/main-assets/js/jquery.themepunch.tools.min.js")%>"></script>
-<script type="text/javascript" src="revolution/<%=Page.ResolveClientUrl("~/main-assets/js/jquery.themepunch.revolution.min.js")%>"></script>
+<%--<script type="text/javascript" src="revolution/<%=Page.ResolveClientUrl("~/main-assets/js/jquery.themepunch.tools.min.js")%>"></script>
+<script type="text/javascript" src="revolution/<%=Page.ResolveClientUrl("~/main-assets/js/jquery.themepunch.revolution.min.js")%>"></script>--%>
 <script type="text/javascript" src="<%=Page.ResolveClientUrl("~/main-assets/js/main.js")%>"></script>
    <script type="text/javascript">  
        $("body").on('click', '.toggle-password', function () {

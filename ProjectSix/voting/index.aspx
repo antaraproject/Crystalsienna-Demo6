@@ -16,6 +16,25 @@
         }
         
     </style>
+
+        <script>
+            function popup() {
+                swal({
+                    title: "Successful!",
+                    text: "Thank you for your feedback.",
+                    icon: "success",
+                    button: "Ok",
+                });
+            }
+            function popupduplicatedata() {
+                swal({
+                    title: "Server Error!",
+                    text: "Please login",
+                    icon: "error",
+                    button: "Ok",
+                });
+            }
+        </script>
     
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="maincontent" runat="server">
@@ -82,12 +101,13 @@
                 dataType: "json",
                 success: function (data) {
                     if (data.d != 0) {
-
-                        alert("Thank you for your feedback");
+                        popup();
+                        //alert("Thank you for your feedback");
                         location.reload(); 
                     }
                     else {
-                        alert("Please login");
+                        popupduplicatedata();
+                        //alert("Please login");
                     }
                 },
                 error: function (response) {

@@ -12,7 +12,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <title>BCS | CMS Login </title>
+    <title>Project Six | CMS Login </title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900"
         rel="stylesheet" type="text/css">
     <link href="<%=Page.ResolveClientUrl("~/admin/assets/css/icons/icomoon/styles.min.css") %>" rel="stylesheet" type="text/css">

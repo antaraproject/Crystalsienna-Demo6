@@ -832,9 +832,11 @@ D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\roslyn\VBCSCompiler.exe.config
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\App.BAL.dll
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\App.CORE.dll
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\Newtonsoft.Json.dll
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\App.DAL.dll
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\App.BAL.pdb
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\App.CORE.pdb
+D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\Newtonsoft.Json.xml
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\App.DAL.pdb
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\obj\Debug\ProjectSix.csprojAssemblyReference.cache
@@ -842,5 +844,3 @@ D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\obj\Debug\ProjectSix.csproj.CoreCompil
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\obj\Debug\ProjectSix.csproj.CopyComplete
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\obj\Debug\ProjectSix.dll
 D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\obj\Debug\ProjectSix.pdb
-D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\Newtonsoft.Json.dll
-D:\EXCORT_PROJECT_6\ProjectSix\ProjectSix\bin\Newtonsoft.Json.xml

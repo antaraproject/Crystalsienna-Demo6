@@ -196,7 +196,7 @@
                                                 <!-- end menu item -->
                                                 <!-- start menu item -->
                                                 <li class="dropdown">
-                                                    <a href="<%=Page.ResolveClientUrl("~/diary/")%>">Escort diary</a>
+                                                    <a href="<%=Page.ResolveClientUrl("~/diary/")%>">Escort Diary</a>
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="<%=Page.ResolveClientUrl("~/testimonial/")%>">Testimonials</a>
@@ -214,7 +214,7 @@
                                                     <a href="<%=Page.ResolveClientUrl("~/forum/")%>">Escort Forum</a>
                                                 </li>
                                                 <li class="dropdown">
-                                                    <a href="<%=Page.ResolveClientUrl("~/voting/")%>">Image voting</a>
+                                                    <a href="<%=Page.ResolveClientUrl("~/voting/")%>">Image Voting</a>
                                                 </li>
                                                 
 													<li class="dropdown" id="login_section" runat="server">
@@ -319,6 +319,9 @@
     <!-- start scroll to top -->
     <a class="scroll-top-arrow" href="javascript:void(0);"><i class="ti-arrow-up"></i></a>
     <!-- end scroll to top  -->
+        <%--<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>--%>
+    
     <!-- javascript libraries -->
     <script type="text/javascript" src="<%=Page.ResolveClientUrl("~/main-assets/js/jquery.js")%>"></script>
     <script type="text/javascript" src="<%=Page.ResolveClientUrl("~/main-assets/js/modernizr.js")%>"></script>
@@ -370,9 +373,7 @@
     <script type="text/javascript" src="revolution/<%=Page.ResolveClientUrl("~/main-assets/js/jquery.themepunch.revolution.min.js")%>"></script>--%>
     <script type="text/javascript" src="<%=Page.ResolveClientUrl("~/main-assets/js/main.js")%>"></script>
 
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js'></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    
+
     <asp:ContentPlaceHolder ID="script" runat="server">
     </asp:ContentPlaceHolder>
 </body>
