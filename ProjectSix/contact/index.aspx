@@ -256,7 +256,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center last-paragraph-no-margin">
                     <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase">tell us about your project</h5>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum is simply dummy text.</p>
+                    <p>A sexy female companion gives immense pleasure and automatically help a man to look towards the brighter side of life. So get in touch with us to have a taste of the paradise.</p>
                 </div>
             </div>
             <form id="project_contact_form" runat="server">
